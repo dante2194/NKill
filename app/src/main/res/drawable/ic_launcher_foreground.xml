@@ -1,0 +1,17 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <!-- bell body -->
+    <path
+        android:fillColor="#7CF5FF"
+        android:pathData="M54,29C46,29 41,35 41,43L41,55L35,63L73,63L67,55L67,43C67,35 62,29 54,29Z" />
+    <!-- clapper -->
+    <path android:fillColor="#7CF5FF" android:pathData="M48,67A6,6 0 0,0 60,67Z" />
+    <!-- slash: dark outline then neon pink -->
+    <path
+        android:pathData="M33,33L75,75"
+        android:strokeColor="#0A0F24" android:strokeWidth="11" android:strokeLineCap="round" />
+    <path
+        android:pathData="M33,33L75,75"
+        android:strokeColor="#FF3D81" android:strokeWidth="5.5" android:strokeLineCap="round" />
+</vector>
